@@ -12,6 +12,17 @@ MEASURED_PUBLIC_REDUCTIONS: the reductions repo records the growth curve: rich I
 
 OPERATOR_PROVIDED_LINEAGE: Jesse described the original one-direction chain sentence shape as `@from [liris] machine [lx 1] time[1-24-2026] ask [ix-1] (acer) tool [eds18] skill [38] run program [1873]`. This repo binds the Acer-side IX evidence to that original LX-chain language idea without claiming that every private local corpus byte is published here.
 
+
+
+## IX/LX Cross-Seat Bridge
+
+This repository is reciprocally linked to the peer origin receipt:
+
+- Peer repo: https://github.com/JesseBrown1980/LX-chain-ORIGINAL-tokens-savings-LIRIS-SEAT
+- Peer measured commit before bridge: `29b5e81f39983ec26fdf0e102d542106cb908992`
+- Bridge packet: `docs/IX-LX-CROSS-SEAT-BRIDGE-2026-07-05.md`
+- Bridge HBP/HBI: `receipts/IX-LX-CROSS-SEAT-BRIDGE-2026-07-05.hbp`, `receipts/IX-LX-CROSS-SEAT-BRIDGE-2026-07-05.hbi`
+
 ## Boundary
 
 This repo does not dump hidden `.claude` memory, private local caches, keys, vaults, or full machine snapshots. It publishes a public-safe proof map: counts, hashes, line-oriented evidence pointers, and HBP/HBI receipts.
